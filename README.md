@@ -1,7 +1,7 @@
 # Wave Music App
 ================
 
-A Music App built with Flutter for Windows and Mobile devices, featuring a well-constructed UI, dynamic themes, and various music-related features.
+## _A Music App built with Flutter for Windows and Mobile devices, featuring a well-constructed UI, dynamic themes, and various music-related features._
 
 ## Features
 ------------
@@ -70,11 +70,17 @@ Contributions are welcome! If you'd like to contribute to the Music App, please 
 4. Push your changes using `git push origin feature/your-feature`
 5. Open a pull request to merge your changes into the main branch
 
+## Author
+
+- **Asim Siddiqui**
+- **Contact Information**
+  - Email: asimsiddiqui8181@gmail.com
+  - LinkedIn: [Asim Siddiqui](https://www.linkedin.com/in/asim-siddiqui-a71731229/)
+  - Portfolio: [Asim Sidd](https://asimsidd.vercel.app/)
+
 ## License
 ----------
 
-<<<<<<< HEAD
-The Music App is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-=======
-The Music App is licensed under the [MIT License](https://opensource.org/licenses/MIT).
->>>>>>> b5ade31382f3a4ab0c844dd99253026c76e64599
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
