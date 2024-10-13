@@ -73,4 +73,8 @@ Contributions are welcome! If you'd like to contribute to the Music App, please 
 ## License
 ----------
 
+<<<<<<< HEAD
 The Music App is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+=======
+The Music App is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+>>>>>>> b5ade31382f3a4ab0c844dd99253026c76e64599
