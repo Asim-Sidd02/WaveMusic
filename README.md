@@ -1,16 +1,76 @@
-# wave
+# Wave Music App
+================
 
-A new Flutter project.
+A Music App built with Flutter for Windows and Mobile devices, featuring a well-constructed UI, dynamic themes, and various music-related features.
+
+## Features
+------------
+
+* **Albums**: View and play songs from various albums
+* **Song Mixes**: Discover and play curated song mixes
+* **Downloadable Songs**: Download your favorite songs for offline playback
+* **Search Option**: Quickly find songs, albums, and artists
+* **Dynamic Themes**: Switch between Light, Dark, and System themes
+* **Playlist Creation**: Create and manage your own playlists
+* **Liked Songs**: Mark and view your favorite songs
+
+## Screenshots
+-------------
+
+### Home Screen
+![Home Screen](ss/home.png)
+
+### Album Mixes Screen
+![Album Mixes Screen](ssa/album.png)
+
 
 ## Getting Started
+-------------------
 
-This project is a starting point for a Flutter application.
+To get started with the Music App, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter installed on your system
+* A Windows or Mobile device for testing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository using `git clone https://github.com/Asim-Sidd02/WaveMusic.git`
+2. Navigate to the project directory using `cd WaveMusic`
+3. Run `flutter pub get` to install dependencies
+4. Run `flutter run` to launch the app on your device
+
+### Usage
+
+1. Launch the app on your device
+2. Explore the various features and screens
+3. Create playlists and mark your favorite songs
+
+## Themes
+---------
+
+The Music App features three dynamic themes:
+
+* **Dynamic Theme**: A dynamic themes which chages according to songs
+* **Light Theme**: A bright and colorful theme
+* **Dark Theme**: A dark and sleek theme
+* **System Theme**: A theme that follows the system's theme settings
+
+To switch between themes, go to the app's settings screen.
+
+## Contributing
+--------------
+
+Contributions are welcome! If you'd like to contribute to the Music App, please follow these steps:
+
+1. Fork the repository using `git fork https://github.com/your-username/music-app.git`
+2. Create a new branch using `git branch feature/your-feature`
+3. Make changes and commit them using `git commit -m "Your commit message"`
+4. Push your changes using `git push origin feature/your-feature`
+5. Open a pull request to merge your changes into the main branch
+
+## License
+----------
+
+The Music App is licensed under the [MIT License](https://opensource.org/licenses/MIT).
