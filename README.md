@@ -1,5 +1,5 @@
 # Wave Music App
-================================================================================
+============
 
 ## _A Music App built with Flutter for Windows and Mobile devices, featuring a well-constructed UI, dynamic themes, and various music-related features._
 
