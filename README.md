@@ -64,7 +64,7 @@ To switch between themes, go to the app's settings screen.
 
 Contributions are welcome! If you'd like to contribute to the Music App, please follow these steps:
 
-1. Fork the repository using `git fork https://github.com/your-username/music-app.git`
+1. Fork the repository using `git fork https://github.com/Asim-Sidd02/WaveMusic.git`
 2. Create a new branch using `git branch feature/your-feature`
 3. Make changes and commit them using `git commit -m "Your commit message"`
 4. Push your changes using `git push origin feature/your-feature`
