@@ -21,7 +21,7 @@ A Music App built with Flutter for Windows and Mobile devices, featuring a well-
 ![Home Screen](ss/home.png)
 
 ### Album Mixes Screen
-![Album Mixes Screen](ssa/album.png)
+![Album Mixes Screen](ss/album.png)
 
 
 ## Getting Started
