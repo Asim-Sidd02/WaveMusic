@@ -610,8 +610,13 @@ class SettingsScreen extends StatelessWidget {
                       style: Theme.of(context).textTheme.bodyMedium,
                     ),
                     isThreeLine: true,
-                    onTap: () {
-
+                   onTap: () {
+                      launchUrl(
+                        Uri.parse(
+                          'https://asimsidd.vercel.app/',
+                        ),
+                        mode: LaunchMode.externalApplication,
+                      );
                     },
                   ),
                   const Divider(),

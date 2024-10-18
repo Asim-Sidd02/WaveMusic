@@ -1547,7 +1547,7 @@ class Languages extends Translations {
           "disabled": "Disabled",
           "github": "GitHub",
           "githubDes":
-              "View GitHub source code \nif you like this project, don't forget to give a ⭐",
+              "Click here to visit my Portfolio.",
           "by": "by",
           "urlSearchDes":
               "Url detected click on it to open/play associated content",
